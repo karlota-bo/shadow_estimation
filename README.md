@@ -22,7 +22,7 @@ For *dynr* package: C compiler
 
 **Data Sources**
 
-Macroeconomic variables: Statistics Lithuania (State Data Agency)
+Macroeconomic variables: State Data Agency
 
 Monetary data: Bank of Lithuania
 
